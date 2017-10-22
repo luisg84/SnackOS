@@ -17,3 +17,24 @@
 
 
 }
+
+
+.seccion1 .prod{
+   display: block;
+   margin-left:20%;
+
+    border: solid;
+    width: 600px;
+
+}
+
+
+.seccion1 .prod div{
+   display: inline-block;
+   padding: 5px
+}
+
+.seccion1 .prod img{
+    width: 130px;
+    border-radius: 6px;
+}
