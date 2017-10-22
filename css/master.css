@@ -1,13 +1,8 @@
-body, body * {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-family: 'Montserrat';
-}
+
 
 body {
   background: #ecf0f1;
-  padding: 0 100px;
+
 }
 
 .bar1{
@@ -28,6 +23,10 @@ body {
 .de{
 
 
+}
+
+i{
+  color: rgb(187, 178, 178);
 }
 
 
