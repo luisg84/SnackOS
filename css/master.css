@@ -29,10 +29,29 @@ i{
 
 
 .seccion1{
-  background: url("../assets/bg2s.jpg");
-  background-color: rgb(237, 160, 57);
+  background: url("../assets/85.jpg");
+  background-color: #f05f40;
   background-size: cover;
   height: 100vh;
+  overflow: hidden;
+}
+
+
+
+.seccion1 h1{
+
+
+    color: rgba(251, 251, 251, 0.72);
+    font-family: Lato-bold;
+}
+
+.seccion1 p{
+        font-size: 2rem;
+        color: rgb(255, 255, 255);
+}
+
+.texto-bienvenido{
+    margin-top: 13rem;
 }
 /*
 .seccion1 .prod{
