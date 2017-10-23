@@ -29,7 +29,7 @@
 
 
 .seccion1{
-  background: url("../assets/85.jpg");
+  background: url("../assets/O7MF130.jpg");
   background-color: #f05f40;
   background-size: cover;
   height: 100vh;
@@ -75,7 +75,7 @@
       margin: 100px;
       border-radius: 8px;
       display: flex;
-      
+
       flex-flow:column wrap;
 
 
