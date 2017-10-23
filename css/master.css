@@ -1,9 +1,6 @@
 
 
-body {
-  background: #ecf0f1;
 
-}
 
 .bar1{
   background-color: rgb(235, 56, 99);
@@ -31,7 +28,12 @@ i{
 
 
 
-
+.seccion1{
+  background: url("../assets/bg2s.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+/*
 .seccion1 .prod{
   min-height: 10px;
  display: grid;
@@ -56,3 +58,4 @@ i{
   width: 50px;
   border-radius: 5px;
 }
+*/
