@@ -30,6 +30,7 @@ i{
 
 .seccion1{
   background: url("../assets/bg2s.jpg");
+  background-color: rgb(237, 160, 57);
   background-size: cover;
   height: 100vh;
 }
