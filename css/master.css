@@ -22,7 +22,7 @@
 
 }
 
-i{
+.seccion1 i{
   color: rgb(187, 178, 178);
 }
 
@@ -53,6 +53,64 @@ i{
 .texto-bienvenido{
     margin-top: 13rem;
 }
+
+/*seccion 2*/
+
+.seccion2{
+  background: url("../assets/bgp.jpg");
+  background-color: #40c0f0;
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content:center;
+
+}
+
+.seccion2 .caja1{
+  margin-top: 50px;
+        background-color: rgba(255, 255, 255, 0.85);
+        width: 400px ;
+        height: 400px;
+      margin: 100px;
+      border-radius: 8px;
+      display: flex;
+      flex-flow:column wrap;
+
+
+}
+
+.caja1 .pty{
+  font-size: 80px;
+  margin-top: 4rem;
+  color:rgba(56, 56, 56, 0.77);
+
+
+}
+
+.sm{
+  width: 200px;
+  margin: auto;
+
+
+
+
+}
+
+
+.sm .px{
+  padding-top: 9px;
+}
+
+.caja1 .btn{
+
+  margin:auto;
+
+
+}
+
+
+
 /*
 .seccion1 .prod{
   min-height: 10px;
