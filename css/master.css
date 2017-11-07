@@ -104,12 +104,62 @@
 }
 
 .caja1 .btn{
+  margin: 5px;
 
-  margin:auto;
+
 
 
 }
 
+
+ .alin{
+   display: flex;
+    flex-flow:row wrap;
+    margin: auto;
+    align-self: center;
+
+
+}
+
+
+
+/*------Menu--------*/
+.seccion3{
+background: url("../assets/85.jpg");
+  background-color: #40f0ea;
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content:center;
+
+}
+
+
+.seccion3 .produc{
+      margin: auto;
+      background-color: rgba(251, 251, 251, 0.47);
+      display: flex;
+      justify-content: center;
+      width: 800px;
+      height: 500px;
+      border-radius: 5px;
+
+}
+
+.seccion3 .ind{
+      border: solid;
+      border-radius: 5px;
+      width: 200px;
+      background: #6998f4;
+
+
+
+}
+
+.seccion3 h3{
+    text-align: center;
+}
 
 
 /*
