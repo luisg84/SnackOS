@@ -125,20 +125,19 @@
 
 /*------Menu--------*/
 .seccion3{
-background: url("../assets/85.jpg");
-  background-color: #40f0ea;
+/*background: url("../assets/85.jpg");*/
+  background-color: #251f1b;
   background-size: cover;
-  height: 100vh;
+
   overflow: hidden;
-  display: flex;
-  justify-content:center;
+
 
 }
 
 
 .seccion3 .produc{
       margin: auto;
-      background-color: rgba(251, 251, 251, 0.47);
+
       display: flex;
       justify-content: center;
       width: 800px;
@@ -147,19 +146,50 @@ background: url("../assets/85.jpg");
 
 }
 
-.seccion3 .ind{
+.ts{
+  color:rgb(41, 41, 41) ;
+  font-family: Lato-bold;
+}
+
+/* .seccion3 .ind{
       border: solid;
       border-radius: 5px;
       width: 200px;
-      background: #6998f4;
+      background: #69f4bd;
 
 
 
+} */
+
+
+.ind{
+  margin-right: 100px;
 }
 
 .seccion3 h3{
     text-align: center;
 }
+
+
+.crl{
+
+
+}
+
+.bn{
+  height: 200px;
+}
+
+.ar{
+  display: inline-block;
+  text-align: center;
+  padding: 8px;
+}
+
+.slid{
+  height: 100vh;
+}
+
 
 
 /*
